@@ -1,0 +1,28 @@
+﻿id;tipo_precio_tarifa;servicio;modalidad;precio_tarifa;fecha_vigencia;estado;precios_tarifas_id;created_at;updated_at;sci_servicios_id
+5;tarifa_maxima_minuto;Las tarifas se encuentran por resoluciones del ARESEP y se encuentre hasta tanto este Consejo no disponga de elemento necesarios para fijar tarifas;NO APLICA;0;0001-01-01;VIGENTE;4;2016-01-15 14:41:44.927;2016-01-15 14:41:44.927;2
+6;tarifa_maxima_minuto;Las tarifas se encuentran por resoluciones del ARESEP y se encuentre hasta tanto este Consejo no disponga de elemento necesarios para fijar tarifas;NO APLICA;0;0001-01-01;VIGENTE;4;2016-01-15 14:41:44.927;2016-01-15 14:41:44.927;1
+7;tarifa_maxima_minuto;Las tarifas se encuentran por resoluciones del ARESEP y se encuentre hasta tanto este Consejo no disponga de elemento necesarios para fijar tarifas;NO APLICA;0;0001-01-01;VIGENTE;4;2016-01-15 14:41:44.943;2016-01-15 14:41:44.943;8
+8;tarifa_maxima_minuto;Las tarifas se encuentran por resoluciones del ARESEP y se encuentre hasta tanto este Consejo no disponga de elemento necesarios para fijar tarifas;NO APLICA;0;0001-01-01;VIGENTE;4;2016-01-15 14:41:44.943;2016-01-15 14:41:44.943;6
+9;tarifa_maxima_acceso;Servicios de Acelera Hogar y PYMES.Las tarifas se encuentran por resoluciones del ARESEP y se encuentre hasta tanto este Consejo no disponga de elemento necesarios para fijar tarifas ;NO APLICA;0;0001-01-01;VIGENTE;4;2016-01-15 14:41:44.943;2016-01-15 14:41:44.943;18
+10;tarifa_maxima_acceso;Acelera Empresarial y Corporativo. Las tarifas se encuentran por resoluciones del ARESEP y se encuentre hasta tanto este Consejo no disponga de elemento necesarios para fijar tarifas;NO APLICA;0;0001-01-01;VIGENTE;4;2016-01-15 14:41:44.943;2016-01-15 14:41:44.943;18
+11;tarifa_maxima_minuto;Las tarifas se encuentran por resoluciones del ARESEP y se encuentre hasta tanto este Consejo no disponga de elemento necesarios para fijar tarifas;NO APLICA;0;0001-01-01;VIGENTE;5;2016-01-15 14:42:47.960;2016-01-15 14:42:47.960;2
+12;tarifa_maxima_acceso;Redes Privadas Virtuales. Las tarifas se encuentran por resoluciones del ARESEP y se encuentre hasta tanto este Consejo no disponga de elemento necesarios para fijar tarifas;NO APLICA;0;0001-01-01;VIGENTE;5;2016-01-15 14:42:47.960;2016-01-15 14:42:47.960;18
+15;tarifa_maxima_acceso;Fijación tarifaría del sistema de emergencia 9-1-1;Telefonía Fija, Móvil, Prepago, Pública e Internacional;1;NULL;VIGENTE;8;2016-02-18 17:55:21.860;2016-02-18 17:55:21.860;18
+16;tarifa_maxima_acceso;;Acceso Mensual;2900;NULL;VIGENTE;9;2016-02-19 19:51:18.380;2016-02-19 19:51:18.380;2
+17;tarifa_maxima_acceso;;Acceso Mensual;3339;NULL;VIGENTE;9;2016-02-19 19:51:18.427;2016-02-19 19:51:18.427;1
+18;tarifa_maxima_minuto;Tarifa Plena;Tarifa telefónica pública por minuto o impulso;10;NULL;VIGENTE;9;2016-02-19 19:51:18.443;2016-02-19 19:51:18.443;8
+19;tarifa_maxima_minuto;Tarifa Reducida;Tarifa telefónica pública por minuto o impulso;5;NULL;VIGENTE;9;2016-02-19 19:51:18.443;2016-02-19 19:51:18.443;8
+20;tarifa_maxima_acceso;;Acceso Mensual;2900;NULL;VIGENTE;10;2016-02-19 20:01:51.460;2016-02-19 20:01:51.460;2
+21;tarifa_maxima_acceso;;Acceso Mensual;3339;NULL;VIGENTE;10;2016-02-19 20:01:51.473;2016-02-19 20:01:51.473;1
+22;tarifa_maxima_minuto;Tarifa Plena;Tarifa telefónica pública por minuto o impulso;10;NULL;VIGENTE;10;2016-02-19 20:01:51.473;2016-02-19 20:01:51.473;8
+23;tarifa_maxima_minuto;Tarifa Reducida;Tarifa telefónica pública por minuto o impulso;5;NULL;VIGENTE;10;2016-02-19 20:01:51.473;2016-02-19 20:01:51.473;8
+24;tarifa_maxima_acceso;Flexibilizar la banda horaria aplicada a los servicios de telefonía móvil como se indica en el Por Tanto III del siguiente enlace: https://docs.google.com/viewer?a=v&pid=sites&srcid=cm50LnN1dGVsLmdvLmNyfHJudHxneDo3N2ZjYzhmNzRjYmI5MmNi;Acceso Mensual;2900;NULL;VIGENTE;11;2016-02-19 20:56:53.700;2016-02-19 20:56:53.700;2
+25;tarifa_maxima_acceso;Flexibilizar la banda horaria aplicada a los servicios de telefonía fija como se indica en el Por Tanto III del siguiente enlace: https://docs.google.com/viewer?a=v&pid=sites&srcid=cm50LnN1dGVsLmdvLmNyfHJudHxneDo3N2ZjYzhmNzRjYmI5MmNi;Acceso Mensual;3339;NULL;VIGENTE;11;2016-02-19 20:56:53.717;2016-02-19 20:56:53.717;1
+26;tarifa_maxima_minuto;Tarifa Plena;Tarifa telefónica pública por minuto o impulso;10;NULL;VIGENTE;11;2016-02-19 20:56:53.717;2016-02-19 20:56:53.717;8
+27;tarifa_maxima_minuto;Tarifa Reducida;Tarifa telefónica pública por minuto o impulso;5;NULL;VIGENTE;11;2016-02-19 20:56:53.717;2016-02-19 20:56:53.717;8
+28;tarifa_maxima_acceso;COLONES/LINEA POR MES;POST-PAGO;3;NULL;VIGENTE;12;2016-02-19 21:16:58.217;2016-02-19 21:16:58.217;1
+29;tarifa_maxima_minuto;MINUTO CON ORIGEN NACIONAL FIJO Y DESTINO NACIONAL FIJO;;8;NULL;VIGENTE;12;2016-02-19 21:16:58.217;2016-02-19 21:16:58.217;18
+30;tarifa_maxima_minuto;MINUTO CON ORIGEN NACIONAL FIJO Y DESTINO NACIONAL MOVIL;;22;NULL;VIGENTE;12;2016-02-19 21:16:58.233;2016-02-19 21:16:58.233;18
+31;tarifa_maxima_acceso;FIJAR LA TARIFA PORCENTUAL MENSUAL EQUIVALENTE AL UNO POR CIENTO (1%) DE LA FACTURACIÓN TELEFÓNICA PARA EL CALCULO CORRESPONDIENTE DE LA TASA DE FINANCIAMIENTO DEL SISTEMA DE EMERGENCIAS 9-1-1;;NULL;NULL;VIGENTE;13;2016-02-19 21:25:16.657;2016-02-19 21:25:16.657;18
+32;tarifa_maxima_acceso;FIJAR LA TARIFA PORCENTUAL MENSUAL EQUIVALENTE AL UNO POR CIENTO (1%) DE LA FACTURACIÓN TELEFÓNICA PARA EL CALCULO CORRESPONDIENTE DE LA TASA DE FINANCIAMIENTO DEL SISTEMA DE EMERGENCIAS 9-1-1;;NULL;NULL;VIGENTE;14;2016-02-19 21:39:26.033;2016-02-19 21:39:26.033;18
+34;tarifa_maxima_acceso;Tarifa para el servicio de internet móvil por transferencia de datos para pre pago;Pre-Pago;0;NULL;VIGENTE;16;2016-03-18 20:59:34.303;2016-03-18 20:59:34.303;18

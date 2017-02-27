@@ -1,0 +1,10 @@
+﻿id;name;email;created_at;updated_at;password_digest;remember_digest
+1;Test;test@me.com;2015-09-25 22:44:26.320;2015-09-25 22:44:26.320;$2a$10$5Kxoa8L6Bgu7MIEB1o5Lnu6QhYli5qpZjeSBBgN2IRDfVrB.1Njgm;NULL
+2;Alexander Herrera C;alexander.herrera@sutel.go.cr;2015-09-29 02:42:05.697;2015-09-29 02:42:05.697;$2a$10$9o7OdquxxlpAMjCP9yPh7u4C5ouooZEE4MpLAu7p214N6LofPnDke;NULL
+1002;Eduardo Mendoza VIEJO;viejoeduardo.mendoza@sutel.go.cr;2015-10-13 20:37:54.340;2015-10-19 21:17:58.933;;NULL
+1003;Ana Yansy;anayansy.noguera@sutel.go.cr;2015-10-27 20:39:11.607;2015-10-27 20:39:11.607;$2a$10$sEETGNgRIqy1aycb9Otdyel0s7yyT7EoenoFckkSEyx5nOBxHNnX.;NULL
+1004;Eskarlett ;eskarlettzen@gmail.com;2015-11-03 17:33:19.727;2015-11-03 17:33:19.727;$2a$10$wmU/QhhVV28DSmwjK3CF2uBDw6jz5EXgTKTyo/ytAeptLAMwc8Wyi;NULL
+1005;Johnny Calvo;sutelrnt@aplicomcr.com;2015-11-09 15:06:42.443;2015-11-09 15:06:42.443;$2a$10$FkBId9f7nYDDxPmb/cOFQ.FhvlmNs2bpRQ/FNso3Te3c1f1JiKM0.;NULL
+1006;Jolene Knorr;jolene.knorr@sutel.go.cr;2015-11-09 15:55:24.520;2015-11-09 15:55:24.520;$2a$10$W7J1czgVRmerabYfmhWzKOzKsihd4z/PDjCLx1JlXgB8vCnq./NJ6;NULL
+1007;Leiner Cordero Redondo;supervisoriceg3@aplicomcr.com;2015-11-10 14:34:41.663;2015-11-10 14:34:41.663;$2a$10$80Usznw9NQci5T2OA6ACO.Qwhz50OWd2.rI92263OFvj6xjKLmm6G;NULL
+1008;Eduardo Mendoza;eduardo.mendoza@sutel.go.cr;2017-02-10 21:18:53.050;2017-02-10 21:18:53.050;$2a$10$vXGfLnzldoRdiXvf7rou2OEhFQCiMqdfXMIYMENl6wN.IujuSeh3C;NULL

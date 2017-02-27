@@ -1,0 +1,174 @@
+﻿id;precio_interconexion;created_at;updated_at;acuerdo_acceso_interconexions_id;sci_servicios_id;servicio
+5;510.00;2016-02-09 20:08:45.900;2016-02-09 20:08:45.900;4;18;11 Enlaces de 2 Mbps simetricos garantizados (con un costo de $510.00 para cada uno)
+6;750.00;2016-02-09 20:08:45.917;2016-02-09 20:08:45.917;4;18;1 Enlace de 4 Mbps simetrico garantizado ubicado en Perez Zeledón (con un costo de  $750.00)
+7;NULL;2016-02-09 21:27:42.167;2016-02-09 21:27:42.167;5;18;
+9;4.00;2016-02-10 14:52:42.383;2016-02-10 14:52:42.383;7;18;Terminación de tráfico en redes fijas y Volp (Precio por minuto/monto en colones)
+10;6.00;2016-02-10 14:52:42.383;2016-02-10 14:52:42.383;7;18;Transito a redes terceras  (Precio por minuto/monto en colones)
+11;24.00;2016-02-10 14:52:42.383;2016-02-10 14:52:42.383;7;18;Transito + Terminación de tráfico  en redes móviles de terceros  (Precio por minuto/monto en colones)
+12;4.00;2016-02-10 14:52:42.383;2016-02-10 14:52:42.383;7;18;Terminación de tráfico de cobro revertido- ambos  (Precio por minuto/monto en colones)
+14;18.00;2016-02-10 16:16:03.253;2016-02-10 16:16:03.253;9;18;USO DE LA RED PARA TERMINACION DE TRAFICO LOCAL EN RED MOVIL DE TELEFONICA, COSTO POR MINUTO EN COLONES 
+15;4.00;2016-02-10 16:16:03.270;2016-02-10 16:16:03.270;9;18;USO DE LA RED PARA TERMINACION DE TRAFICO LOCAL EN RED FIJA DEL PS, COSTO POR MUNITO EN COLONES
+16;4.00;2016-02-10 16:16:03.270;2016-02-10 16:16:03.270;9;18;ORIGINACION DE TRAFICO LOCAL EN REDES DE TELEFONIA FIJA DEL PS HACIA PROVEEDORES DE SERVICIOS DE COBRO REVERTIDO  800 EN LAS REDES DE TELEFONICA, COSTO POR MUNITO EN COLONES
+17;18.00;2016-02-10 16:16:03.270;2016-02-10 16:16:03.270;9;18;ORIGINACION DE TRAFICO LOCAL EN REDES DE TELEFONIA MOVIL DE TELEFONICA HACIA PROVEEDORES DE SERVICIOS DE COBRO  REVERTIDO 800 EN LAS REDES DEL PS, (NO INCUYE LOS SERVICIOS 800 PARA ORIGINACION DE LLAMADAS LDI),  COSTO POR MUNITO EN COLONES
+18;4.00;2016-02-10 16:16:03.270;2016-02-10 16:16:03.270;9;18;ORIGINACION DE TRAFICO LOCAL EN REDES DE TELEFONIA FIJA DEL PS HACIA NUMEROS CORTOS EN LAS REDES DE TELEFONICA, (NO  INCLUYE SERVICIOS DE NUMEROS CORTOS PARA ORIGINACION DE LLAMADAS LDI), COSTO POR MUNITO EN COLONES
+19;18.00;2016-02-10 16:16:03.270;2016-02-10 16:16:03.270;9;18;ORIGINACION DE TRAFICO LOCAL EN REDES DE TELEFONIA MOVIL DE TELEFONICA HACIA NUMEROS CORTOS EN LAS REDES DEL PS (NO INCLUYE SERVICIOS DE NUMEROS CORTOS PARA ORIGINACION DE LLAMADAS LDI), COSTO POR MUNITO EN COLONES
+20;6.00;2016-02-10 16:16:03.287;2016-02-10 16:16:03.287;9;18;USO DE RED FIJA DE PS PARA TERMINACION EN RED FIJAS DE UN TERCERO, COSTO POR MUNITO EN COLONES 
+21;6.00;2016-02-10 16:16:03.287;2016-02-10 16:16:03.287;9;18;USO DE RED MOVIL TELEFONICA PARA TRANSITO NACIONAL, COSTO POR MUNITO EN COLONES
+22;272.00;2016-02-10 16:16:03.287;2016-02-10 16:16:03.287;9;18;INTERCONEXION IP DIRECTA A LA RED DE BORDE PARA TRANSITO IP, Mbps, PRECIO EN DOLARES, CMR 272,00.
+23;1000.00;2016-02-10 16:16:03.287;2016-02-10 16:16:03.287;9;18;PUERTO FAST ETHERNET(HASTA 100Mbps), PRECIO EN DOLARES, CNR INSTALACION 300. PRECIO EN DOLARES, CMR 1000,00.
+24;1000.00;2016-02-10 16:16:03.287;2016-02-10 16:16:03.287;9;18;PUERTO GIGA ETHERNET, PRECIO EN DOLARES, CNR INSTALACION 300. PRECIO EN DOLARES, CMR 1000,00.
+25;350.00;2016-02-10 16:16:03.300;2016-02-10 16:16:03.300;9;18;CONFIGURACIONES DE TABLAS DE ENRUTAMIENTO Y PUBLICACION DE DIRECCIONES, PRECIO EN DOLARES, CNR 850. PRECIO EN DOLARES, CMR 350.
+26;1880.00;2016-02-10 16:16:03.300;2016-02-10 16:16:03.300;9;18;HABILITACION POR BASTIDOR, CUOTA DE INSTALACION, PRECIO EN DOLARES, 5.350. CARGO RECURRENTE MENSUAL PRECIO EN DOLARES, 1880.
+27;855.00;2016-02-10 16:16:03.300;2016-02-10 16:16:03.300;9;18;CIRCUITO ELECTRICO 30AMP 120AC, CARGO RECURRENTE MENSUAL PRECIO EN DOLARES, 855.
+28;42.00;2016-02-10 16:16:03.300;2016-02-10 16:16:03.300;9;18;PATCHCORD DESDE EL PS COUBICADO EN SALA DE TRANSMISION HASTA EL DDF/ODF DE INTERCONEXION, CUOTA DE INSTALACION PRECIO EN DOLARES 502. CARGO RECURRENTE MENSUAL POR E1 PRECIO EN DOLARES 42.
+29;0.00;2016-02-10 16:16:03.300;2016-02-10 16:16:03.300;9;18;CONFIGURACION DE PUERTO DE CONMUTACION POR POI2, CUOTA DE INSTALACION PRECIO EN DOLARES 5.400. CARGO RECURRENTE MENSUAL POR E1 PRECIO  EN DOLARES 0.
+57;18.00;2016-02-10 17:27:14.647;2016-02-10 17:27:14.647;17;18;Precio por minuto: Terminación en redes móviles con origen nacional. (Precio en colones)
+58;4.00;2016-02-10 17:27:14.647;2016-02-10 17:27:14.647;17;18;Precio por minuto: Terminación en redes fijas con origen nacional ( Precio en colones)
+59;4.00;2016-02-10 17:27:14.647;2016-02-10 17:27:14.647;17;18;Precio por minuto: Terminación de tráfico de cobro revertido en redes fijas. (precio en colones)
+60;1000.00;2016-02-10 17:27:14.647;2016-02-10 17:27:14.647;17;18;Cargos mensuales por co-ubicación y tránsito hacia redes fijas o móviles: Enlace de comunicación los primeros tres meses ( Feb, Marzo, Abril 2013) PRECIO EN DOLARES.
+61;2000.00;2016-02-10 17:27:14.663;2016-02-10 17:27:14.663;17;18;Cargos mensuales por co-ubicación y tránsito hacia redes fijas o móviles: Enlace de comunicaion a partir del cuarto mes y hasta finalizar el contrato ( PRECIO EN DOLARES)
+62;0.00;2016-02-10 17:27:14.663;2016-02-10 17:27:14.663;17;18;Cargos por activación de los enlaces: Habilitación del enlace 0.01 (Precio en dolares) Cuota de instalación y 0.00 cargo recurrente mensual.
+63;0.00;2016-02-10 17:27:14.663;2016-02-10 17:27:14.663;17;18;Cargos por activación de los enlaces: Mantenimiento del enlace: 0.00 (Precio en Dolares) Cuota de instalación y 0.01 cargo recurrente mensual
+85;34.00;2016-02-10 17:38:18.383;2016-02-10 17:38:18.383;24;18;ENLACE 200 Mbps PARA TRAFICO PARA TRANSITO HACIA INTERNET (5:1), PRECIO EN DOLARES
+86;400.00;2016-02-10 17:38:18.397;2016-02-10 17:38:18.397;24;18;PUERTO GIGABIT ETHERNET PARA EL ENLACE DE TRANSITO DESDE Y HACIA INTERNET, PRECIO EN DOLARES
+87;150.00;2016-02-10 17:38:18.397;2016-02-10 17:38:18.397;24;18;ATENCION DE AVERIAS ORO PARA ENLACE DE TRAFICO HACIA INTERNET, PRECIO EN DOLARES
+88;NULL;2016-02-10 17:38:48.803;2016-02-10 17:38:48.803;25;18;NO APLICA
+89;NULL;2016-02-10 17:38:48.803;2016-02-10 17:38:48.803;25;18;NO APLICA
+90;NULL;2016-02-10 17:38:48.803;2016-02-10 17:38:48.803;25;18;NO APLICA
+97;4649.00;2016-02-10 17:41:57.460;2016-02-10 17:41:57.460;27;18;ENLACE DE 30Mbps PARA TRAFICO HACIE INTERNET VIA METRO ETHERNET(5:1), PRECIO EN DOLARES
+98;243.00;2016-02-10 17:41:57.460;2016-02-10 17:41:57.460;27;18;2 PUERTOS FAST ETHERNET PARA EL ENLACE DE INTERNET, PRECIO EN DOLARES
+99;135.00;2016-02-10 17:41:57.477;2016-02-10 17:41:57.477;27;18;ATENCION DE AVERIAS ORO PARA ENLACE DE TRAFICO HACIA INTERNET, PRECIO EN DOLARES
+100;243.00;2016-02-10 17:41:57.477;2016-02-10 17:41:57.477;27;18;ENLACE REDUNDANTE DE 30Mbps PARA TRAFICO HACIA INTERNET, PRECIO EN DOLARES, POR CADA PUERTO. LAS PARTES ACUERDAN QUE ESTE PRECIO SE MANTENDRÁ SIEMPRE Y CUANDO SEA UN ENLACE PASIVO, ES DECIR,  QUE PERMANEZCA INACTIVO AUNQUE SEA DE REDUNDANCIA SE DEBERÁ COBRAR EL MISMO MONTO QUE EN EL ENLACE PRINCIPAL
+101;1000.00;2016-02-10 17:41:57.477;2016-02-10 17:41:57.477;27;18;INSTALACION PARA EL ENLACE PRINCIPAL, PRECIO EN DOLARES.
+102;1000.00;2016-02-10 17:41:57.477;2016-02-10 17:41:57.477;27;18;INSTALACION DE ENLACE DE REDUNDANCIA, PRECIO EN DOLARES.
+103;NULL;2016-02-10 17:47:59.493;2016-02-10 17:47:59.493;28;18;VER DETALLE DE SERVICIOS Y PRECIOS EN LA CASILLA DE NOTAS.
+104;35000.00;2016-02-10 17:57:32.907;2016-02-10 17:57:32.907;29;18;Mensualidad por enlaces de acceso a Internet: 1IPL de 155Mbps vía cabl esubmarino Maya haccia Estados Unidos hasta el landing point en Florida, Estados Unidos. Precio en Dolares moneda de los Estados Unidos de América
+105;450.00;2016-02-10 17:57:32.923;2016-02-10 17:57:32.923;29;18;Monto por concepto de instalació. Precio en dólares moneda de los Estados Unidos de America
+138;4.00;2016-02-10 20:26:06.163;2016-02-10 20:26:06.163;34;18;USO DE RED FIJA PARA ORIGINACION DE TRAFICO DE LARGA DISTANCIA INTERNACIONAL, PRECIO POR MINUTO EN COLONES
+139;4.00;2016-02-10 20:26:06.163;2016-02-10 20:26:06.163;34;18;ORIGINACION DE TRAFICO DESDE REDES FIJAS CON SELECCION DE OPERADOR NACIONAL, PRECIO POR MINUTO EN COLONES
+140;4.00;2016-02-10 20:26:06.163;2016-02-10 20:26:06.163;34;18;ORIGINACION DE TRAFICO NACIONAL DESDE REDES FIJAS HACIA NUMEROS CORTOS DE LA OTRA PARTE, PRECIO POR MINUTO EN COLONES
+141;19.00;2016-02-10 20:26:06.163;2016-02-10 20:26:06.163;34;18;USO DE PLATAFORMA DE TELEFONOS PUBLICOS PARA ORIGINAR LLAMADAS HACIA REDES FIJAS O MOVILES DE LA OTRA PARTE INTERNACIONAL, PRECIO POR MINUTO EN COLONES
+142;18.00;2016-02-10 20:26:06.180;2016-02-10 20:26:06.180;34;18;ORIGINACION DE TRAFICO NACIONAL EN REDES DE TELEFONIA MOVIL HACIA PROVEEDORES DE SERVICIOS DE COBRO REVERTIDO 800 EN LAS REDES DE LA OTRA PARTE, PRECIO POR MINUTO EN COLONES
+143;18.00;2016-02-10 20:26:06.180;2016-02-10 20:26:06.180;34;18;ORIGINACION DE TRAFICO NACIONAL DESDE REDES MOVILES CON SELECCION DE OPERADOR NACIONAL
+144;18.00;2016-02-10 20:26:06.180;2016-02-10 20:26:06.180;34;18;ORIGINACION DE TRAFICO NACIONAL DESDE REDES MOVILES HACIA NUMEROS CORTOS DE A OTRA PARTE
+145;4.00;2016-02-10 20:29:48.553;2016-02-10 20:29:48.553;35;18;Precio por minuto en red ICE en colones: Uso de red fija para terminación de tráfico
+146;18.00;2016-02-10 20:29:48.553;2016-02-10 20:29:48.553;35;18;Precio por minuto en red ICE en colones: Uso de red móvil para terminación de tráfico.
+147;4.00;2016-02-10 20:29:48.553;2016-02-10 20:29:48.553;35;18;Precio por minuto en red ICE en colones: Uso de red fija para originación de tráfico  
+148;18.00;2016-02-10 20:29:48.553;2016-02-10 20:29:48.553;35;18;Precio por minuto en red ICE en colones: Uso de red móvil para originación de tráfico
+149;6.00;2016-02-10 20:29:48.553;2016-02-10 20:29:48.553;35;18;Precio por minuto en red ICE en colones: Uso de red fija para tránsito nacional.
+150;15.00;2016-02-10 20:29:48.553;2016-02-10 20:29:48.553;35;18;Precio por minuto en red ICE en colones: Uso de plataforma de telefonía pública
+151;3.00;2016-02-10 20:29:48.570;2016-02-10 20:29:48.570;35;18;Precio por minuto en red de PRD en colones: Uso de la red de PRD para terminación de tráfico
+152;502.00;2016-02-10 20:29:48.570;2016-02-10 20:29:48.570;35;18;Precios por los servicios asociados al POI eléctrico con la Central de San Pedro en la configuración de enlaces E1´s en US dólares:  Patch Cord desde PRD hasta el DDF en el MMR Cuota de instalación
+153;42.00;2016-02-10 20:29:48.570;2016-02-10 20:29:48.570;35;18;Precios por los servicios asociados al POI eléctrico con la Central de San Pedro en la configuración de enlaces E1´s en US dólares:  Patch Cord desde PRD hasta el DDF en el MMR Cargo recurrente por E1
+154;5400.00;2016-02-10 20:29:48.570;2016-02-10 20:29:48.570;35;18;Precios por los servicios asociados al POI eléctrico con la Central de San Pedro en la configuración de enlaces E1´s en US dólares: Configuración del puerto de Commutación por POI: Cuota de instalación
+155;0.00;2016-02-10 20:29:48.570;2016-02-10 20:29:48.570;35;18;Precios por los servicios asociados al POI eléctrico con la Central de San Pedro en la configuración de enlaces E1´s en US dólares: Configuración del puerto de Commutación por POI: Cargo recurrente mensual por E1
+165;4.00;2016-02-10 20:37:01.040;2016-02-10 20:37:01.040;37;18;Precio por minuto en colones: Uso de red fija para originación de tráfico de larga distancia internacional
+166;18.00;2016-02-10 20:37:01.040;2016-02-10 20:37:01.040;37;18;Precio por minuto en colones: Uso de red móvil para originación de tráfico de larga distancia internacional
+167;4.00;2016-02-10 20:37:01.040;2016-02-10 20:37:01.040;37;18;Precio por minuto en colones: Uso de red fija para originación de tráfico
+168;15.00;2016-02-10 20:37:01.040;2016-02-10 20:37:01.040;37;18;Precio por minuto en colones: Uso de plataforma  de telefonía pública para originación de tráfico de larga distancia internacional
+169;6.00;2016-02-10 20:37:01.057;2016-02-10 20:37:01.057;37;18;Precio por minuto en colones: Uso de red fija para trámsito nacional
+170;502.00;2016-02-10 20:37:01.057;2016-02-10 20:37:01.057;37;18;Precios en US dólares: Patch Cord para un E1 desde el PS hasta el DDF en el MMR del cuarto de coubicación: Cuota de instalación
+171;42.00;2016-02-10 20:37:01.057;2016-02-10 20:37:01.057;37;18;Precios en US dólares: Patch Cord para un E1 desde el PS hasta el DDF en el MMR del cuarto de coubicación: Cargo recurrente mensual por E1
+172;5400.00;2016-02-10 20:37:01.057;2016-02-10 20:37:01.057;37;18;Precios en US dólares: Configuración del puerto de conmutación por POI: Cuota de instalación
+173;0.00;2016-02-10 20:37:01.057;2016-02-10 20:37:01.057;37;18;Precios en US dólares: Configuración del puerto de conmutación por POI: Cargo recurrente mensual por E1: 
+174;4.00;2016-02-10 21:05:57.347;2016-02-10 21:05:57.347;38;18;Precio por minuto y en colones: Uso de red fija para terminación de tráfico
+175;18.00;2016-02-10 21:05:57.360;2016-02-10 21:05:57.360;38;18;Precio por minuto y en colones: Uso de red móvil para terminación de tráfico
+176;4.00;2016-02-10 21:05:57.360;2016-02-10 21:05:57.360;38;18;Precio por minuto y en colones: Uso de red fija para originación de tráfico (Cargo aplicado a la originación de tráfico en la red del ICE para servicios de cobro revertido 800 en la red de Teletica y/o por facilitar el acceso a un proveedor de servicios 900)
+177;18.00;2016-02-10 21:05:57.360;2016-02-10 21:05:57.360;38;18;Precio por minuto y en colones: Uso de red móvil para originación de tráfico (Cargo aplicado a la originación de tráfico en la red del ICE para servicios de cobro revertido 800 en la red de Teletica y/o por facilitar el acceso a un proveedor de servicios 900)
+178;6.00;2016-02-10 21:05:57.360;2016-02-10 21:05:57.360;38;18;Precio por minuto y en colones: Uso de red fija para tránsito nacional (Cargo adicional a las terminaciones de tráfico nacional en las redes móviles del ICE, en ausencia de un POI con dicha red: También aplicable a servicios de tránsito hacia un prestador de red inteligente, o hacia los servicios de números cortos de un segundo prestador)
+179;15.00;2016-02-10 21:05:57.360;2016-02-10 21:05:57.360;38;18;Precio por minuto y en colones: Uso de plataforma de telefonía pública (Cargo adicional cuando el usuario utiliza la plataforma de telefonía pública para originar o terminar tráfico en las redes fijas y móviles del ICE)
+180;3.00;2016-02-10 21:05:57.377;2016-02-10 21:05:57.377;38;18;Precio por minuto y en colones: Uso de red de Teletica para terminación de tráfico
+181;502.00;2016-02-10 21:05:57.377;2016-02-10 21:05:57.377;38;18;Precio en US dólares: Patch Cord desde el PS hasta el DDF en el MMR: Cuota de instalación
+182;42.00;2016-02-10 21:05:57.377;2016-02-10 21:05:57.377;38;18;Precio en US dólares: Patch Cord desde el PS hasta el DDF en el MMR: Cargo recurrente mensual por E1
+183;5400.00;2016-02-10 21:05:57.377;2016-02-10 21:05:57.377;38;18;Precio en US dólares: Configuración del puerto de Conmutación por POI: Cuota de Instalación
+184;0.00;2016-02-10 21:05:57.377;2016-02-10 21:05:57.377;38;18;Precio en US dólares: Configuración del puerto de Conmutación por POI: Cargo recurrente mensual por E1
+185;5350.00;2016-02-10 21:05:57.377;2016-02-10 21:05:57.377;38;18;Precio en US dólares: Habilitación por 1/3 bastidor: Cuota de instalción
+186;1880.00;2016-02-10 21:05:57.390;2016-02-10 21:05:57.390;38;18;Precio en US dólares: Habilitación por 1/3 bastidor: Cargo recurrente mensual 
+187;0.00;2016-02-10 21:05:57.390;2016-02-10 21:05:57.390;38;18;Precio en US dólares: Circuito eléctrico 30AMP 120 VAC1: Cuota de instalación
+188;855.00;2016-02-10 21:05:57.390;2016-02-10 21:05:57.390;38;18;Precio en US dólares: Circuito eléctrico 30AMP 120 VAC1: Cargo recurrente mensual
+189;4.00;2016-02-10 21:08:07.470;2016-02-10 21:08:07.470;39;18;USO DE RED FIJA PARA TERMINACION DE TRAFICO, PRECIO POR MINUTO EN COLONES, 3.63
+190;18.00;2016-02-10 21:08:07.470;2016-02-10 21:08:07.470;39;18;USO DE RED MOVIL PARA TERMINACION DE TRAFICO , PRECIO POR MINUTO EN COLONES, 17.95
+191;4.00;2016-02-10 21:08:07.487;2016-02-10 21:08:07.487;39;18;USO DE RED FIJA PARA ORIGINACION DE TRAFICO, PRECIO POR MINUTO EN COLONES, 3.63
+192;18.00;2016-02-10 21:08:07.487;2016-02-10 21:08:07.487;39;18;USO DE RED MOVIL PARA ORIGINACION DE TRAFICO, PRECIO POR MINUTO EN COLONES, 17.95
+193;6.00;2016-02-10 21:08:07.487;2016-02-10 21:08:07.487;39;18;USO DE RED FIJA PARA TRANSITO NACIONAL, PRECIO POR MINUTO EN COLONES, 5.77
+194;15.00;2016-02-10 21:08:07.500;2016-02-10 21:08:07.500;39;18;USO DE PLATAFORMA DE TELEFONIA PUBLICA, PRECIO POR MINUTO EN COLONES, 15.30
+195;3.00;2016-02-10 21:08:07.500;2016-02-10 21:08:07.500;39;18;USO DE LA RED DE TELECABLE PARA TERMINACION DE TRAFICO, PRECIO POR MINUTO EN COLONES, 2.80
+196;42.00;2016-02-10 21:08:07.500;2016-02-10 21:08:07.500;39;18;PATCH CORD DESDE PS HASTA EL DDF EN EL MMR, CUOTA DE INSTALACION, PRECIO EN DOLARES, 502. CARGO RECURRENTE MENSUAL POR E1 PRECIO EN DOLARES, 42.
+197;0.00;2016-02-10 21:08:07.500;2016-02-10 21:08:07.500;39;18;CONFIGURACION DEL PUERTO DE CONMUTACION POR POI, CUOTA DE INSTALACION, PRECIO EN DOLARES, 5.400. CARGO RECURRENTE MENSUAL, PRECIO EN DOLARES POR E1, 0.
+198;4.00;2016-02-10 21:18:03.050;2016-02-10 21:18:03.050;40;18;Precios de Terminación de Tráfico Telefónico de larga distancia internacional. Precio por minuto en colones: Uso de red fija para terminación de tráfico de larga distancia internacional
+199;18.00;2016-02-10 21:18:03.050;2016-02-10 21:18:03.050;40;18;Precios de Terminación de Tráfico Telefónico de larga distancia internacional. Precio por minuto en colones: Uso de red móvil para terminación de tráfico de larga distancia internacional
+200;15.00;2016-02-10 21:18:03.067;2016-02-10 21:18:03.067;40;18;Precios de Terminación de Tráfico Telefónico de larga distancia internacional. Precio por minuto en colones: Uso de plataforma de telefonía pública para terminación de tráfico de larga distancia internacional
+201;6.00;2016-02-10 21:18:03.067;2016-02-10 21:18:03.067;40;18;Precios de Terminación de Tráfico Telefónico de larga distancia internacional. Precio por minuto en colones: Uso de red fija para tránsito internacional
+202;502.00;2016-02-10 21:18:03.067;2016-02-10 21:18:03.067;40;18;Precios por los servicios asociados al POI eléctrico con la Central de Comunicación de San Pedro en la Configuración de enlaces E1´s es US Dólares: Patch Cord desde PRD hasta el DDf en el MMR del cuarto de coubicación Cuota de instalación
+203;42.00;2016-02-10 21:18:03.067;2016-02-10 21:18:03.067;40;18;Precios por los servicios asociados al POI eléctrico con la Central de Comunicación de San Pedro en la Configuración de enlaces E1´s es US Dólares: Patch Cord desde PRD hasta el DDf en el MMR del cuarto de coubicación Cargo recurrente mensual por E1
+204;5400.00;2016-02-10 21:18:03.067;2016-02-10 21:18:03.067;40;18;Precios por los servicios asociados al POI eléctrico con la Central de Comunicación de San Pedro en la Configuración de enlaces E1´s es US Dólares: Configuración del puerto de Conmutación por POI Cuota de instalación
+205;0.00;2016-02-10 21:18:03.083;2016-02-10 21:18:03.083;40;18;Precios por los servicios asociados al POI eléctrico con la Central de Comunicación de San Pedro en la Configuración de enlaces E1´s es US Dólares: Configuración del puerto de Conmutación por POI: Cargo recurrente mensual por E1: Habilitación del Bastidor
+206;5350.00;2016-02-10 21:18:03.083;2016-02-10 21:18:03.083;40;18;Precios por el servicio de coubicación en la Estación de Telecomunicaciones de San Pedro de Montes de Oca en UD dólares:  Habilitación del Bastidor Cuota de instalación
+207;1880.00;2016-02-10 21:18:03.083;2016-02-10 21:18:03.083;40;18;Precios por el servicio de coubicación en la Estación de Telecomunicaciones de San Pedro de Montes de Oca en UD dólares:  Habilitación del Bastidor Cargo recurrente mensual
+208;0.00;2016-02-10 21:18:03.083;2016-02-10 21:18:03.083;40;18;Circuito electric 30 AMP-48 VDC Cuota de instalación
+209;670.00;2016-02-10 21:18:03.083;2016-02-10 21:18:03.083;40;18;Circuito electric 30 AMP-48 VDC Cargo recurrente mensual
+210;0.00;2016-02-10 21:18:03.083;2016-02-10 21:18:03.083;40;18;Circuito eléctrico 30 AMP 120 VAC Cuota de instalación
+211;855.00;2016-02-10 21:18:03.097;2016-02-10 21:18:03.097;40;18;Circuito eléctrico 30 AMP 120 VAC Cargo recurrente mensual ( Precio en dólares moneda de Estados Unidos de América)
+212;2600.00;2016-02-10 21:18:03.097;2016-02-10 21:18:03.097;40;18;Precios por el acceso de fibra óptica: Fibra óptica ( 2 hilos entrada oeste) Cuota de instalación Precio en dólares moneda de Estados Unidos de América
+213;266.00;2016-02-10 21:18:03.097;2016-02-10 21:18:03.097;40;18;Precios por el acceso de fibra óptica: Fibra óptica ( 2 hilos entrada oeste)  Cargo recurrente mensual Precio en dólares moneda de Estados Unidos de América
+214;2600.00;2016-02-10 21:18:03.097;2016-02-10 21:18:03.097;40;18;Precios por el acceso de fibra óptica: Fibra óptica ( 2 hilos entrada norte)  Cuota de instalación Precio en dólares moneda de Estados Unidos de América
+215;251.00;2016-02-10 21:18:03.097;2016-02-10 21:18:03.097;40;18;Precios por el acceso de fibra óptica: Fibra óptica ( 2 hilos entrada norte) Cargo recurrente mensual Precio en dólares moneda de Estados Unidos de América
+217;4.00;2016-02-10 21:51:07.317;2016-02-10 21:51:07.317;42;18;USO DE RED FIJA PARA TERMINACION DE TRAFICO, PRECIO POR MINUTO EN COLONES 3.63
+218;18.00;2016-02-10 21:51:07.317;2016-02-10 21:51:07.317;42;18;USO DE RED MOVIL PARA TERMINACION DE TRAFICO, PRECIO POR MINUTO EN COLONES 17.95
+219;4.00;2016-02-10 21:51:07.317;2016-02-10 21:51:07.317;42;18;USO DE RED FIJA PARA ORIGINACION DE TRAFICO, PRECIO POR MINUTO EN COLONES 3.63
+220;18.00;2016-02-10 21:51:07.317;2016-02-10 21:51:07.317;42;18;USO DE RED MOVIL PARA ORIGINACION DE TRAFICO, PRECIO POR MINUTO EN COLONES 17.95
+221;6.00;2016-02-10 21:51:07.317;2016-02-10 21:51:07.317;42;18;USO DE RED FIJA PARA TRANSITO NACIONAL, PRECIO POR MINUTO EN COLONES 5.77
+222;15.00;2016-02-10 21:51:07.317;2016-02-10 21:51:07.317;42;18;USO DE PLATAFORMA DE TELEFONIA PUBLICA, PRECIO POR MINUTO EN COLONES 15.30
+223;2.00;2016-02-10 21:51:07.330;2016-02-10 21:51:07.330;42;18;USO DE LA RED DE INTERPHONE PARA TERMINACION DE TRAFICO, PRECIO POR MINUTO EN COLONES 2.00
+224;42.00;2016-02-10 21:51:07.330;2016-02-10 21:51:07.330;42;18;PATCH CORD DESDE INTERPHONE HASTA EL DDF EN EL MMR, CUOTA DE INSTALACION PRECIO EN DOLARES, 502. CARGO RECURRENTE MENSUAL POR E1, PRECIO EN DOLARES, 42.
+225;0.00;2016-02-10 21:51:07.330;2016-02-10 21:51:07.330;42;18;CONFIGURACION DEL PUERTO DE CONMUTACION POR POI, CUOTA DE INSTALACION, PRECIO EN DOLARES, 5.400. CARGO RECURRENTE MENSUAL POR E1, PRECIO EN DOLARES, 0.
+226;NULL;2016-02-10 21:53:31.517;2016-02-10 21:53:31.517;43;18;
+237;0.00;2016-02-11 15:02:15.547;2016-02-11 15:02:15.547;47;18;La conexión a la cabecera es provista de forma gratuita
+238;4.00;2016-02-11 15:09:36.423;2016-02-11 15:09:36.423;48;18;USO DE RED FIJA PARA TERMINACION DE TRAFICO, PRECIO POR MINUTO EN COLONES, 3.63.
+239;18.00;2016-02-11 15:09:36.423;2016-02-11 15:09:36.423;48;18;USO DE RED MOVIL PARA TERMINACION DE TRAFICO, PRECIO POR MINUTO EN COLONES, 17.95.
+240;4.00;2016-02-11 15:09:36.423;2016-02-11 15:09:36.423;48;18;USO DE RED FIJA PARA ORIGINACION DE TRAFICO, PRECIO POR MINUTO EN COLONES, 3.63.
+241;18.00;2016-02-11 15:09:36.423;2016-02-11 15:09:36.423;48;18;USO DE RED MOVIL PARA ORIGINACION DE TRAFICO, PRECIO POR MINUTO EN COLONES, 17.95.
+242;6.00;2016-02-11 15:09:36.423;2016-02-11 15:09:36.423;48;18;USO DE RED FIJA PARA TRANSITO NACIONAL, PRECIO POR MINUTO EN COLONES, 5.77.
+243;15.00;2016-02-11 15:09:36.440;2016-02-11 15:09:36.440;48;18;USO DE PLATAFORMA DE TELEFONIA PUBLICA, PRECIO POR MINUTO EN COLONES, 15.30.
+244;3.00;2016-02-11 15:09:36.440;2016-02-11 15:09:36.440;48;18;USO DE LA RED DE E-DIAY PARA TERMINACION DE TRAFICO, PRECIO POR MINUTO EN COLONES, 2.59.
+245;42.00;2016-02-11 15:09:36.440;2016-02-11 15:09:36.440;48;18;PATCH CORD DESDE E-DIAY HASTA EL DDF EN EL MMR, CUOTA DE INSTALACION PRECIO EN DOLARES, 502. CARGO RECURRENTE MENSUAL POR E1 PRECIO EN DOLARES, 42.
+246;0.00;2016-02-11 15:09:36.440;2016-02-11 15:09:36.440;48;18;CONFIGURACION DEL PUERTO DE CONMUTACION POR POI, CUOTA DE INSTALACION PRECIO EN DOLARES, 5400. CARGO RECURRENTE MENSUAL POR E1 PRECIO EN DOLARES, 0.
+249;NULL;2016-02-11 19:38:59.147;2016-02-11 19:38:59.147;51;18;
+250;35.00;2016-02-11 20:14:55.203;2016-02-11 20:14:55.203;52;18;Precios en US dólares: Enlaces con dos hilos de fibra óptica oscura pagaderos por mes vencido
+263;16.00;2016-02-19 17:04:28.030;2016-02-19 17:04:28.030;55;18;USO DE ESPACIO EN LA ESTACION UNQUI PARA UBICACION DE EQUIPOS PARA PRESTACION DE SERVICIOS DE TELECOMUNICACIONES. PRECIO MENSUAL EN DOLARES, $15.987.52
+264;7.00;2016-02-19 17:04:28.030;2016-02-19 17:04:28.030;55;18;CIRCUITO ELECTRICO DE 150Amp AC (TOTAL 300Amp). PRECIO MENSUA EN DOLARES, $7.267.50
+265;7.00;2016-02-19 17:04:28.030;2016-02-19 17:04:28.030;55;18;USO COMPARTIDO EN DUCTERIA ICE, PRECIO MENSUAL EN DOLARES. $6.607.36
+266;5.00;2016-02-19 17:04:28.030;2016-02-19 17:04:28.030;55;18;USO COMPARTIDO ESPACIO EN PORTERIA ICE, PRECIO MENSUAL EN DOLARES. $4.81
+267;3.00;2016-02-19 17:04:28.047;2016-02-19 17:04:28.047;55;18;ALQUILER ESPACIO PARA BODEGA, CARRETES, EQUIPO Y MATERIALES, PRECIO MENSUAL EN DOLARES. $3.128.55
+268;3.00;2016-02-19 17:04:28.047;2016-02-19 17:04:28.047;55;18;ALQUILER ESPACIO EN INSTALACION ICE USO ADMINISTRATIVO, PRECIO MENSUAL EN DOLARES. $2.850.
+269;NULL;2016-02-22 15:45:04.903;2016-02-22 15:45:04.903;56;18;
+270;24700.00;2016-03-18 20:42:45.690;2016-03-18 20:42:45.690;57;18;De conformidad con la clausula tercera del contrato los servicios se encuentran especificados en el añexo A. Precio establecido en moneda local de los Estados Unidos de América
+271;1000.00;2016-03-18 20:42:45.707;2016-03-18 20:42:45.707;57;18;De conformidad con la clausula tercera del contrato los servicios se encuentran especificados en el añexo A. Precio establecido en moneda local de los Estados Unidos de América.
+296;4.00;2016-03-18 20:53:45.990;2016-03-18 20:53:45.990;61;18;Precio por minuto en colones: Uso de red fija para terminación de tráfico 
+297;18.00;2016-03-18 20:53:45.990;2016-03-18 20:53:45.990;61;18;Precio por minuto en colones: Uso de red móvil para terminación de tráfico
+298;4.00;2016-03-18 20:53:46.003;2016-03-18 20:53:46.003;61;18;Precio por minuto en colones: Uso de red fija para originación de tráfico
+299;18.00;2016-03-18 20:53:46.003;2016-03-18 20:53:46.003;61;18;Precio por minuto en colones: Uso de red móvil para originación de tráfico
+300;4.00;2016-03-18 20:53:46.003;2016-03-18 20:53:46.003;61;18;Precio por minuto en colones: Uso de red fija para terminación internacional de tráfico
+301;18.00;2016-03-18 20:53:46.003;2016-03-18 20:53:46.003;61;18;Precio por minuto en colones: Uso de red móvil para terminación internacional de tráfico:
+302;6.00;2016-03-18 20:53:46.003;2016-03-18 20:53:46.003;61;18;Precio por minuto en colones: Uso de red fija para tránsito nacional ( cargo adicional a las terminaciones de la red móvil del ICE para llamadas nacionales e internacionales)
+303;3.00;2016-03-18 20:53:46.003;2016-03-18 20:53:46.003;61;18;Precio por minuto en colones: Uso de la red de Amnet para terminación de tráfico
+304;NULL;2016-04-01 17:33:30.157;2016-04-01 17:33:30.157;62;NULL;Canal de Video RF de GPON de JASEC/Televisora de Costa Rica S.A. Fibra Óptica.
+305;NULL;2016-04-01 21:30:28.950;2016-04-01 21:30:28.950;63;NULL;CONTRATO DE PRESTACIÓN DEL SERVICIO DE ACCESO DE BANDA ANCHA MEDIANTE LA RED FTTH GPON PROPIEDAD DE JASEC Y CABLETICA
+306;4.68;2016-04-04 15:08:01.303;2016-04-04 15:08:01.303;64;18;xxxxxxxxxxxxxxxx
+322;NULL;2016-08-18 21:54:25.060;2016-08-18 21:54:25.060;70;18;Tráfico telefónico en las redes nacionales (Precios indicados en el Anexo #2 del Contrato)
+323;NULL;2016-08-18 21:54:25.060;2016-08-18 21:54:25.060;70;18;Activación de los enlaces (Precios indicados en el Anexo #2 del Contrato)
+324;NULL;2016-08-18 21:54:25.060;2016-08-18 21:54:25.060;70;18;Enlaces E1 y POI (Precios indicados en el Anexo#2 del Contrato)
+331;NULL;2016-08-19 15:39:19.297;2016-08-19 15:39:19.297;73;18;Tráfico telefónico en las redes nacionales (Precios indicados en el Anexo #2 del Contrato Principal)
+332;NULL;2016-08-19 15:39:19.310;2016-08-19 15:39:19.310;73;18;Activación de los enlaces (Precios indicados en el Anexo #2 del Contrato Principal)
+333;NULL;2016-08-19 15:39:19.310;2016-08-19 15:39:19.310;73;18;Enlaces E1 y POI (Precios indicados en el Anexo#2 del Contrato Principal)
+334;12.00;2016-09-12 15:09:49.353;2016-09-12 15:09:49.353;74;18;ACCESO INDIRECTO AL BUCLE DE FIBRE EN REDES FTTH PUNTO MULTIPUNTO DE ESPH, MODALIDAD RADIO FREQUENCY OVER GLASS (RFOG) DE 0 a 5000 $
+335;11.00;2016-09-12 15:09:49.387;2016-09-12 15:09:49.387;74;18;ACCESO INDIRECTO AL BUCLE DE FIBRE EN REDES FTTH PUNTO MULTIPUNTO DE ESPH, MODALIDAD RADIO FREQUENCY OVER GLASS (RFOG) DE 5001 a 10000 $
+336;9.50;2016-09-12 15:09:49.387;2016-09-12 15:09:49.387;74;18;ACCESO INDIRECTO AL BUCLE DE FIBRE EN REDES FTTH PUNTO MULTIPUNTO DE ESPH, MODALIDAD RADIO FREQUENCY OVER GLASS (RFOG) Más a 10000 $
+337;12.00;2016-09-12 15:41:43.407;2016-09-12 15:41:43.407;75;18;ACCESO INDIRECTO AL BUCLE DE FIBRE EN REDES FTTH PUNTO MULTIPUNTO DE ESPH, MODALIDAD RADIO FREQUENCY OVER GLASS (RFOG) DE 0 a 5000 $
+338;11.00;2016-09-12 15:41:43.407;2016-09-12 15:41:43.407;75;18;ACCESO INDIRECTO AL BUCLE DE FIBRE EN REDES FTTH PUNTO MULTIPUNTO DE ESPH, MODALIDAD RADIO FREQUENCY OVER GLASS (RFOG) DE 5001 a 10000 $
+339;9.50;2016-09-12 15:41:43.420;2016-09-12 15:41:43.420;75;18;ACCESO INDIRECTO AL BUCLE DE FIBRE EN REDES FTTH PUNTO MULTIPUNTO DE ESPH, MODALIDAD RADIO FREQUENCY OVER GLASS (RFOG) Más a 10000 $
+343;3500.00;2016-09-27 14:58:45.463;2016-09-27 14:58:45.463;77;18;Servicio de Arrendamiento operativo de bienes de telecomunicaciones (Dólares)
+344;7950.00;2016-09-27 14:58:45.463;2016-09-27 14:58:45.463;77;18;Costo Mensual 100 Mb (Dólares)
+345;550.00;2016-09-27 14:58:45.463;2016-09-27 14:58:45.463;77;18;Costo Mensual de Respaldo Inalámbrico 1000Mb (Dólares)
+346;NULL;2017-01-06 21:44:34.327;2017-01-06 21:44:34.327;78;18;Un enlace Metro Ethernet de 45 Mbps vía fibra óptica desde el nodo de RACSA ubicado en el ICE en Desamparadosm hasta el nodo de TELECABLE  ubicado en Desamparados 225 metros este del Banco Nacional de Costa Rica, enlace que se utilizará para tráfico desde y hacia internet
+347;NULL;2017-01-31 17:21:47.427;2017-01-31 17:21:47.427;79;6;Tráfico telefónico de larga distancia internacional suscrito entre el ICE y E-DIAY S.A.
